@@ -591,10 +591,10 @@ button {
 
 .main-block__image img {
   height: 100%;
-  max-width: 100%;
+  width: 100%;
 }
 
-.main-block__container {
+.main-block__contain {
   padding-left: 50px;
   padding-right: calc(30px + 50 * (100vw - 992px) / 604);
   padding-bottom: 0px;
@@ -2494,7 +2494,7 @@ textarea {
     border-bottom-right-radius: 50px;
   }
 
-  .main-block__container {
+  .main-block__contain {
     padding: 0px 30px;
   }
 
