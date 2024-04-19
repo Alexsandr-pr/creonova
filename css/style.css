@@ -2212,7 +2212,7 @@ s .person__title {
 }
 
 .main-block-img__body::after {
-  content: url(../img/page/page3/decor.svg);
+  content: url(../img/page/page3/decor.png);
   position: absolute;
   top: 0;
   left: calc(50% - 375px);
@@ -3642,7 +3642,7 @@ textarea {
 
   .main-block-img__body::after {
     left: calc(50% - 321px);
-    content: url(../img/page/page2/decor-1280.svg);
+    content: url(../img/page/page2/decor-1280.png);
   }
 
   .main-block-img__body {
@@ -4067,7 +4067,7 @@ textarea {
 
   .main-block-img__body::after {
     left: calc(50% - 174px);
-    content: url(../img/page/page2/decor-mobile.svg);
+    content: url(../img/page/page2/decor-mobile.png);
   }
 
   .main-block-img__body {
